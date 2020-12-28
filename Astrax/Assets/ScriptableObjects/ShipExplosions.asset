@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c41a1f4ff93f14b89599ce432267f5, type: 3}
+  m_Name: ShipExplosions
+  m_EditorClassIdentifier: 
+  shipExplosion: {fileID: 2527272299194189987, guid: 1b7362b724ba1294e97e608921e766fe,
+    type: 3}
+  shipTeleports: {fileID: 2527272299194189987, guid: 4ac17a970bde4b941ba8aeae447dc180,
+    type: 3}
